@@ -19,4 +19,4 @@ session_destroy();
 
 // Redirect to login form
 header("Location: ../../api/views/login_form.php");
-exit;
+exit;// creats a link to the login form in the api 
